@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>New Test Case</name>
+   <name>bookanappoinment</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>bea1f6ed-8918-47bd-bf48-54fa15ac36f5</testCaseGuid>
+   <testCaseGuid>38cae11b-f71d-419c-8590-5f10395d7d0c</testCaseGuid>
 </TestCaseEntity>
