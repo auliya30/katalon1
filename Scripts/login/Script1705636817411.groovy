@@ -29,20 +29,3 @@ WebUI.setEncryptedText(findTestObject('Object Repository/Page_CURA Healthcare Se
 
 WebUI.sendKeys(findTestObject('Object Repository/Page_CURA Healthcare Service/input_password'), Keys.chord(Keys.ENTER))
 
-WebUI.selectOptionByValue(findTestObject('Object Repository/Page_CURA Healthcare Service/select_Tokyo CURA Healthcare Center        _5b4107'), 
-    'Hongkong CURA Healthcare Center', true)
-
-WebUI.click(findTestObject('Object Repository/Page_CURA Healthcare Service/input_hospital_readmission'))
-
-WebUI.click(findTestObject('Object Repository/Page_CURA Healthcare Service/input_programs'))
-
-WebUI.click(findTestObject('Object Repository/Page_CURA Healthcare Service/input_visit_date'))
-
-WebUI.click(findTestObject('Object Repository/Page_CURA Healthcare Service/th_'))
-
-WebUI.click(findTestObject('Object Repository/Page_CURA Healthcare Service/td_15'))
-
-WebUI.click(findTestObject('Object Repository/Page_CURA Healthcare Service/button_Book Appointment'))
-
-WebUI.click(findTestObject('Object Repository/Page_CURA Healthcare Service/a_Go to Homepage'))
-
